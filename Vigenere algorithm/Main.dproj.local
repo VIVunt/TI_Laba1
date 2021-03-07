@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.199,F:\Projects\Delphi\ТИ\laba1\Vigenere algorithm\Main.dproj=F:\Projects\Delphi\Main.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.981,F:\Projects\Delphi\Main.dproj=F:\Projects\Delphi\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.031,F:\Projects\Delphi\ТИ\laba1\Unit1.pas=F:\Projects\Delphi\ТИ\laba1\Vigenere algorithm\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.438,=F:\Projects\Delphi\ТИ\laba1\Vigenere algorithm\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.557,F:\Projects\Delphi\ТИ\laba1\GeneralCryptography.pas=F:\Projects\Delphi\ТИ\laba1\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
